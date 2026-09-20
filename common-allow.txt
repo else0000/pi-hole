@@ -6,5 +6,5 @@
 mozilla.cloudflare-dns.com
 
 @@||huggingface.co^
-@@||hf.com^
+@@||hf.co^
 @@||modelscope.cn^
