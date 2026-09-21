@@ -14,3 +14,4 @@ v.redd.it
 emoji.redditmedia.com
 @@||wss.redditmedia.com^
 @@||hachyderm.io^
+@@||noc.social^
