@@ -8,3 +8,5 @@ mozilla.cloudflare-dns.com
 @@||huggingface.co^
 @@||hf.co^
 @@||modelscope.cn^
+
+@@||archlinux.de^
