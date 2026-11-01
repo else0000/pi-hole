@@ -10,3 +10,5 @@ mozilla.cloudflare-dns.com
 @@||modelscope.cn^
 
 @@||archlinux.de^
+
+@@||mastodon.social^
