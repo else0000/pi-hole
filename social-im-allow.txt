@@ -21,3 +21,4 @@ emoji.redditmedia.com
 @@||lemmy.world^
 
 @@||mastodon.social^
+@@||guzmer.social^
