@@ -18,3 +18,6 @@ emoji.redditmedia.com
 @@||noc.social^
 @@||hexbear.net^
 @@||join-lemmy.org^
+@@||lemmy.world^
+
+@@||mastodon.social^
