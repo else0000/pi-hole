@@ -22,3 +22,4 @@ emoji.redditmedia.com
 
 @@||mastodon.social^
 @@||guzmer.social^
+@@||fosstodon.org^
