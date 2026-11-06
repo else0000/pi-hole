@@ -13,5 +13,8 @@ i.redd.it
 v.redd.it
 emoji.redditmedia.com
 @@||wss.redditmedia.com^
+
 @@||hachyderm.io^
 @@||noc.social^
+@@||hexbear.net^
+@@||join-lemmy.org^
