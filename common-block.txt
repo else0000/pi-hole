@@ -15,3 +15,7 @@
 ||heatmap-external-d.strava.com^
 
 ||taskassist-pa.googleapis.com^
+
+||alive.github.com^
+
+||ab.chatgpt.com^
