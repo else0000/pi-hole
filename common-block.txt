@@ -20,3 +20,5 @@
 ||alive.github.com^
 
 ||ab.chatgpt.com^
+
+||telemetry.mozilla.org^
