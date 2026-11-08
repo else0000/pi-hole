@@ -14,6 +14,7 @@
 ||heatmap-external-c.strava.com^
 ||heatmap-external-d.strava.com^
 
+||nearbysharing-pa.googleapis.com^
 ||taskassist-pa.googleapis.com^
 
 ||alive.github.com^
