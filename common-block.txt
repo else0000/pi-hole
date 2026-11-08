@@ -13,3 +13,5 @@
 ||heatmap-external-b.strava.com^
 ||heatmap-external-c.strava.com^
 ||heatmap-external-d.strava.com^
+
+||taskassist-pa.googleapis.com^
