@@ -22,3 +22,5 @@
 ||ab.chatgpt.com^
 
 ||telemetry.mozilla.org^
+
+||variations.brave.com^
