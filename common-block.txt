@@ -24,3 +24,6 @@
 ||telemetry.mozilla.org^
 
 ||variations.brave.com^
+
+||picks.my^
+||samsungnewsapi.picks.my^
