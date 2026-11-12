@@ -32,3 +32,5 @@
 ||api-device-eur.fengkongcloud.com^
 ||fengkongcloud.com^
 ||www.ishumei.com^
+
+||kwizly.com^
