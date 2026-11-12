@@ -16,6 +16,7 @@
 
 ||nearbysharing-pa.googleapis.com^
 ||taskassist-pa.googleapis.com^
+||fitness.googleapis.com^
 
 ||alive.github.com^
 
@@ -27,3 +28,5 @@
 
 ||picks.my^
 ||samsungnewsapi.picks.my^
+
+||api-device-eur.fengkongcloud.com^
