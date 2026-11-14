@@ -23,3 +23,7 @@ emoji.redditmedia.com
 @@||mastodon.social^
 @@||guzmer.social^
 @@||fosstodon.org^
+
+@@||cdninstagram.com^
+@@||whatsapp.com^
+@@||fbcdn.net^
