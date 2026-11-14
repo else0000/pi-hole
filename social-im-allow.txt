@@ -19,6 +19,7 @@ emoji.redditmedia.com
 @@||hexbear.net^
 @@||join-lemmy.org^
 @@||lemmy.world^
+@@||lemmy.ml^
 
 @@||mastodon.social^
 @@||guzmer.social^
