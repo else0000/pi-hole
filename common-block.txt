@@ -17,6 +17,8 @@
 ||nearbysharing-pa.googleapis.com^
 ||taskassist-pa.googleapis.com^
 ||fitness.googleapis.com^
+# Gemini
+||robinfrontend-pa.googleapis.com^
 
 ||alive.github.com^
 
