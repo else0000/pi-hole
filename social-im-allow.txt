@@ -38,3 +38,4 @@ live-events.workers.bsky.app
 app-config.workers.bsky.app
 cdn.bsky.app
 video.bsky.app
+bsky.social
