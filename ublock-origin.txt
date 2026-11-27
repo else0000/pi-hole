@@ -6,4 +6,5 @@
 @@||app-config.workers.bsky.app^
 @@||cdn.bsky.app^
 @@||video.bsky.app^
+@@||video.cdn.bsky.app^
 @@||bsky.social^
