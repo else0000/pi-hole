@@ -31,3 +31,4 @@
 
 bsky.app
 web-cdn.bsky.app
+public.api.bsky.app
