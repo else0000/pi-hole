@@ -33,5 +33,6 @@ bsky.app
 web-cdn.bsky.app
 public.api.bsky.app
 events.bsky.app
+api.bsky.app
 live-events.workers.bsky.app
 app-config.workers.bsky.app
