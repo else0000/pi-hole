@@ -30,3 +30,4 @@
 @@||fbcdn.net^
 
 bsky.app
+web-cdn.bsky.app
